@@ -6,8 +6,9 @@
     filter: grayscale(50%);
   }
 
-  #teamSectionimg {
-    background-image: url(/images/banner1.png);
+#teamSectionimg {
+    background: rgba(0,0,0,0.7) url(/images/banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-blend-mode: darken;
 }
