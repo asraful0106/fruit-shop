@@ -1,3 +1,7 @@
 *{
     font-family: 'Lato', sans-serif;
 }
+
+.dimmed-image {
+    filter: grayscale(50%);
+  }
